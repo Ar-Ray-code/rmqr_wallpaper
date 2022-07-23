@@ -1,0 +1,2 @@
+rmqrcode
+opencv-python
