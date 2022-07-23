@@ -1,2 +1,2 @@
 # rmqr_businesscard
-Create meeting-wallpeper using rmqrcode
+Create meeting-wallpaper using rmqrcode
